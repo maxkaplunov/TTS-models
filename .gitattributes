@@ -2,3 +2,13 @@
 *.txt filter=lfs diff=lfs merge=lfs -text
 *.zip filter=lfs diff=lfs merge=lfs -text
 *.xcframework filter=lfs diff=lfs merge=lfs -text
+ffmpegkit filter=lfs diff=lfs merge=lfs -text
+libavcodec filter=lfs diff=lfs merge=lfs -text
+libavdevice filter=lfs diff=lfs merge=lfs -text
+libavfilter filter=lfs diff=lfs merge=lfs -text
+libavformat filter=lfs diff=lfs merge=lfs -text
+libavutil filter=lfs diff=lfs merge=lfs -text
+libswresample filter=lfs diff=lfs merge=lfs -text
+libswscale filter=lfs diff=lfs merge=lfs -text
+
+
